@@ -1,4 +1,4 @@
-## 3. Why State Pattern
+## Why State Pattern
 
 ### Problem programmers face:
 
