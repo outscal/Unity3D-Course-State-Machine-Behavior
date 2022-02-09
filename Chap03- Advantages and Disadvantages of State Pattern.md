@@ -1,4 +1,4 @@
-## 4. Advantages and Disadvantages of State Pattern
+## Advantages and Disadvantages of State Pattern
 
 Advantages are,
 
