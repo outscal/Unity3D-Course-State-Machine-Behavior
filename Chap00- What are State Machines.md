@@ -16,7 +16,7 @@ submissions = 100 points
 
 State machines are a concept in which a container(State) stores the status of something at any given time. Then, given an input, it can provide an output based on the current state, transitioning to a new state in the process
 
-## 1. What is a State Pattern
+## What is a State Pattern
 
 The state pattern is a behavioral software design pattern that implements a state machine in an object-oriented way. This pattern is used in computer programming to encapsulate varying behavior for the same object based on its internal state.
 
