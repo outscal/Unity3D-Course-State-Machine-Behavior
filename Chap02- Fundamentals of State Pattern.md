@@ -21,6 +21,3 @@ In general, there are three key points for every state class which help define t
 - ***Update Loop***: This is where the core update logic, which executes in every frame, exists. You can divide this into multiple parts such as a loop for physics updates or a loop for handling input.
 
 ![](Images/2.png)
-
-
->💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
