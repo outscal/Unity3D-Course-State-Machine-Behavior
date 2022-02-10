@@ -10,5 +10,3 @@ Disadvantages are,
 
 1. As transitions are implicitly handled by states themselves, this method is not scalable & in real life, you might end up violating Open Closed - open for extension & closed for modification principal
 2. All the state objects implement common behaviors through the interface which really seems unnecessary & extra work in real-life development
-
->💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
