@@ -9,5 +9,3 @@ The state pattern is a behavioral software design pattern that implements a�
 - A Finite State Machine consists of a finite number of states. At a given time only one such state is active.
 - Each state defines which state it’ll transition to as an output, based on the sequence of inputs it receives.
 - The output state becomes the new active state. In other words, a state transition occurs.
-
->💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
