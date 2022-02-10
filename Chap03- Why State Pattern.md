@@ -9,6 +9,3 @@ First, all of our logic is now inside this single class.  Attacking, def
 A better approach is to have each state be its own class, generally with a base ‘state’ class that they inherit from.
 
 This way, the character or object only needs to have a reference to its current state and a call to make that state update.  When we want to add a new state, we just create a new class.
-
->💡 🚀 **[Join Discord Server](https://discord.gg/J5zDscnzms) → Get your doubts solved by experts instantly**
->
