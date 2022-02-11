@@ -6,7 +6,7 @@ Ayyyy Look who made it! Congrats on taking the behaviour pattern in your game ma
 
 Work in silence and let your success make some noise.. Maybe have a music party with your clan members on [Discord](https://discord.com/invite/R4hfXhsWjN)?
 
-Ohh I almost forgot, you just earned **20 Learning points**. Do the following to secure them.
+Ohh I almost forgot, you just earned **40 Learning points**. Do the following to secure them.
 Tag us @Outscal on LinkedIn and Twitter and fill the form [here](https://airtable.com/shrXGSkgf5NClpoIU) to let us know you're worthy.
 
 ![Showcase](https://media.giphy.com/media/12XDYvMJNcmLgQ/giphy.gif)
