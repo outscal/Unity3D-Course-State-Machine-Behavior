@@ -12,15 +12,14 @@ It may seem daunting in the beginning but you will catch up in no time. Just kno
 
 Let's get started and get you access to your tools.
 
-## Earn Learning points to get more rewards 🎁
+## Enroll yourself and get rewarded when you complete the course 🎁
 
-As you learn and upskill yourself, you can earn learning points. These points can be redeemed for rewards, as well as in tournaments. Free stuff to learn stuff, crazy right?
+As you learn and upskill yourself, you can earn learning points. These points can be redeemed for rewards, as well as in tournaments. Enroll yourself for the course by filling the form linked to the gif below and start earning yoour points
 
 **Click on the gif below and follow the instructions** ⏬
 
-[![Click me!](https://media.giphy.com/media/zz1v8vjwQwTja/giphy.gif)](https://academy.outscal.com/welcome/build-in-public/assignments)
+[![Click me!](https://media.giphy.com/media/iKBAAfYNDu1dowhnEj/giphy.gif)](https://airtable.com/shrY0mnlrnJXaZjps)
 
-You can also click here - [Click Here!](https://academy.outscal.com/welcome/build-in-public/assignments)
-
+You can also click here - [Click Here!](https://airtable.com/shrY0mnlrnJXaZjps)
 
 All clear? Let's Continue
