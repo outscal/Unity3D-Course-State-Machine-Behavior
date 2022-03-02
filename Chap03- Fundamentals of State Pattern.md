@@ -12,7 +12,7 @@ Thus, due to the different states referenced by the current state variable ove
 
 In this project, the aforementioned **Character** class is the one that will behave differently due to the various states. But, you want good behavior only!
 
-![](Images/1.png)
+![](Images/1.PNG)
 
 In general, there are three key points for every state class which help define the overall behavior of the state:
 
@@ -20,4 +20,4 @@ In general, there are three key points for every state class which help define t
 - ***Exit***: Similar to the Entry, this is where you do any clean-ups you only need to do once before the state changes.
 - ***Update Loop***: This is where the core update logic, which executes in every frame, exists. You can divide this into multiple parts such as a loop for physics updates or a loop for handling input.
 
-![](Images/2.png)
+![](Images/2.PNG)
