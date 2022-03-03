@@ -14,7 +14,7 @@ Let's get started and get you access to your tools.
 
 ## Enroll yourself and get rewarded when you complete the course 🎁
 
-As you learn and upskill yourself, you can earn learning points. These points can be redeemed for rewards, as well as in tournaments. Enroll yourself for the course by filling the form linked to the gif below and start earning yoour points
+As you learn and upskill yourself, you can earn learning points. These points can be redeemed for rewards, as well as in tournaments. Enroll yourself for the course by filling the form linked to the gif below and start earning your points
 
 **Click on the gif below and follow the instructions** ⏬
 
